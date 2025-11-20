@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "cbc5cedb-b0ee-4c6f-b53b-a2b81145db2c",
+		"name": "SockShop API Tests - Parte 5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36379403"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
